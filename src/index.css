@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text1 {
+    color: #4200FF;
+}
+
+.bg1 {
+    background-color: #4200FF;
+}
+
+.bdr1 {
+    border-radius: 527.008px;
+    border: 26.927px solid #E7E7E7;
+}
+
+.bdr2 {
+    border-radius: 28.743px;
+    background: #FFF;
+    box-shadow: 0px 2.8743px 17.2458px -0.71858px rgba(0, 0, 0, 0.20);
+    backdrop-filter: blur(14.371501922607422px);
+}
+
+.bg2 {
+    border-radius: 28.743px;
+    background: #FFF;
+    box-shadow: 0px 2.8743px 17.2458px -0.71858px rgba(0, 0, 0, 0.20);
+    backdrop-filter: blur(14.371501922607422px);
+}
+.bg3 {
+    border-radius: 28px;
+    background: rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(12px);
+}
